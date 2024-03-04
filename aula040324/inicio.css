@@ -1,0 +1,18 @@
+body {
+    background-image: url("C:\Users\Nuno\Pictures\Saved Pictures\Liga_Portugal_Betclic_2023.png");
+}
+
+h1{
+    color: maroon;
+    margin-left: 40px;
+    text-align: center;
+}
+
+tr{
+    background-color: green;
+    opacity: 0.3;
+}
+
+h2{
+    font-size: 14;
+}
