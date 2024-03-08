@@ -5,6 +5,12 @@
     padding: 10px 34px;
     border: 2px solid black;
     width: 5%;
+    transition-duration: 0.4s;
+}
+
+#back:hover{
+    background-color: grey;
+    color: white;
 }
 
 #signUp{
@@ -16,10 +22,16 @@
     padding: 12px 36px;
     border: 2px solid black;
     width: 10%;
+    transition-duration: 0.4s;
+}
+
+#signUp:hover{
+    background-color: grey;
+    color: white;
 }
 
 #sign{
-    text-align: center;
+    margin-left: 24%;
 }
 
 #box{

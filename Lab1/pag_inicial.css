@@ -4,10 +4,9 @@
 
 #password{
     text-align: center;
-    color: blue;
 }
 
-#login{
+#login{ 
     text-align: center;
     background-color: white;
     font-size: 16px;
@@ -16,6 +15,12 @@
     width: 50%;
     margin: auto;
     display: block;
+    transition-duration: 0.4s;
+}
+
+#login:hover{
+    background-color: grey;
+    color: white;
 }
 
 #register{
@@ -27,6 +32,12 @@
     width: 50%;
     margin: auto;
     display: block;
+    transition-duration: 0.4s;
+}
+
+#register:hover{
+    background-color: grey;
+    color: white;
 }
 
 #img{
