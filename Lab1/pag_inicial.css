@@ -1,0 +1,36 @@
+#titulo{
+    text-align: center;
+}
+
+#password{
+    text-align: center;
+    color: blue;
+}
+
+#login{
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 14px 40px;
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+#register{
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 14px 40px;
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+#img{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
