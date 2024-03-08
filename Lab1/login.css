@@ -1,0 +1,38 @@
+#back{
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px 34px;
+    border: 2px solid black;
+    width: 5%;
+}
+
+#login{
+    margin: auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: 2px solid black;
+    width: 10%;
+}
+
+#pass{
+    text-align: center;
+    font-size: 14px;
+}
+
+#log{
+    text-align: center;
+}
+
+#box{
+    width: 50%;
+    height: 150px;
+    padding: 5px;
+    border: 5px solid black;
+    margin: auto;
+    background-color: whitesmoke;
+    display: block;
+}
