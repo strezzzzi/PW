@@ -14,13 +14,14 @@
 }
 
 #login{
-    margin-left: 40%;
+    margin:auto;
+    display: block;
     text-align: center;
     background-color: white;
     font-size: 16px;
-    padding: 10px 30px;
+    padding: 12px 36px;
     border: 2px solid black;
-    width: 10%;
+    width: 100%;
     transition-duration: 0.4s;
 }
 
