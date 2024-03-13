@@ -43,3 +43,11 @@
     background-color: whitesmoke;
     display: block;
 }
+
+#policy{
+    font-size: 12px;
+}
+
+#checkbox{
+    margin-left: 20%;
+}

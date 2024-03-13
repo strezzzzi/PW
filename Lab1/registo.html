@@ -1,14 +1,24 @@
 <!DOCTYPE html>
 <html lang="pt">
+
 <head>
     <link rel="stylesheet" href="registo.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
 </head>
+
 <body>
     <h5 id="back"><a href="pag_inicial.html" target="_self" title="Voltar á página incial">Back</a></h5>
     <h1 id="sign">Sign Up</h1>
-    <h3 id="box"><p>Name:</p><p>Email:</p><p>Password:</p><p>Re-type Password:</p><p id="signUp">Sign up</p></h3>
+    <h3 id="box">
+        <form><label for="fname">Nome:</label><input type="text" id="fname" name="fname"><br><label
+                for="fmail">Email:</label><input type="text" id="fmail" name="fmail"><br><label
+                for="fpass">Password:</label><input type="text" id="fpass" name="fpass"><br><label for="fretype">Re-Type
+                Password<input type="text" id="fretype" name="fretype"></label><br><input id="checkbox" type="checkbox" name="agree"
+                id="agree" value="Policy"><label id="policy" for="agree">I agree to the Terms of Use and Privacy Policy
+            </label><br><input id="signUp" type="submit" value="Sign up"></form>
+    </h3>
 </body>
+
 </html>
