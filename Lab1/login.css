@@ -31,7 +31,7 @@
 }
 
 #pass{
-    margin-left: 60%;
+    text-align: center;
     font-size: 14px;
 }
 
@@ -47,4 +47,8 @@
     margin: auto;
     background-color: whitesmoke;
     display: block;
+}
+
+#label{
+    width: 100%;
 }
