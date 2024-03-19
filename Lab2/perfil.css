@@ -1,0 +1,50 @@
+#back{
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 10px 34px;
+    border: 2px solid black;
+    width: 5%;
+    transition-duration: 0.4s;
+}
+
+#back:hover{
+    background-color: grey;
+    color: white;
+}
+
+#log{
+    margin-left: 24%;
+}
+
+#box{
+    width: 50%;
+    height: 400px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: auto;
+    background-color: whitesmoke;
+    display: block;
+}
+
+#label{
+    width: 100%;
+}
+
+#gravar{
+    margin:auto;
+    display: block;
+    text-align: center;
+    background-color: green;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: 2px solid black;
+    width: 90%;
+    transition-duration: 0.4s;
+}
+
+#perfil{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
