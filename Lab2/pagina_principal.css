@@ -1,0 +1,92 @@
+#foto{
+    width: 100%;
+}
+
+p{
+    display: inline-block;
+}
+
+table{
+    width: 100%;
+}
+
+table,td,th{
+    border: 1px solid black;
+}
+
+#alinhar{
+    text-align: center;
+}
+
+#gravar{
+    margin:auto;
+    display: block;
+    text-align: center;
+    background-color: green;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: 2px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+    color: black;
+}
+
+#label{
+    width: 100%;
+}
+
+#gp{
+    margin:auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: 2px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+    color: black;
+
+}
+
+#gp:hover{
+    background-color: grey;
+    color: white;
+}
+
+#ts{
+    margin:auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: 2px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+    color: black;
+}
+
+#ts:hover{
+    background-color: grey;
+    color: white;
+}
+
+#nt{
+    margin:auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    padding: 12px 36px;
+    border: 2px solid black;
+    width: 100%;
+    transition-duration: 0.4s;
+    color: black;
+}
+
+#nt:hover{
+    background-color: grey;
+    color: white;
+}
+

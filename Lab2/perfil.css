@@ -6,6 +6,7 @@
     border: 2px solid black;
     width: 5%;
     transition-duration: 0.4s;
+    color: black;
 }
 
 #back:hover{
@@ -19,7 +20,7 @@
 
 #box{
     width: 50%;
-    height: 400px;
+    height: 300px;
     padding: 20px;
     border: 5px solid black;
     margin: auto;
@@ -44,7 +45,7 @@
 }
 
 #perfil{
-    width: 50%;
+    width: 30%;
     margin: auto;
     display: block;
 }
