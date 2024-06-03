@@ -1,0 +1,49 @@
+{
+    "curso": "ERSC",
+    "UC": [
+        {
+            "Disciplina": "PW",
+            "Prof": "António Lira"
+        },
+        {
+            "Disciplina": "TAR",
+            "Prof": "Silvestre Malta"
+        },
+        {
+            "Disciplina": "RESM",
+            "Prof": "Pedro Pinto"
+        },
+        {
+            "Disciplina": "CRIPTO",
+            "Prof": "Hugo Almeida"
+        },
+        {
+            "Disciplina": "APS",
+            "Prof": "João Faria"
+        }
+    ]
+}
+
+<curso>
+    <curso>ERSC</curso>
+    <UC>
+        <Disciplina>PW</Disciplina>
+        <Prof>António Lira</Prof>
+    </UC>
+    <UC>
+        <Disciplina>TAR</Disciplina>
+        <Prof>Silvestre Malta</Prof>
+    </UC>
+    <UC>
+        <Disciplina>RESM</Disciplina>
+        <Prof>Pedro Pinto</Prof>
+    </UC>
+    <UC>
+        <Disciplina>CRIPTO</Disciplina>
+        <Prof>Hugo Almeida</Prof>
+    </UC>
+    <UC>
+        <Disciplina>APS</Disciplina>
+        <Prof>João Faria</Prof>
+    </UC>
+</curso>
